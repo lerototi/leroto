@@ -12,6 +12,11 @@ Requisitos
 	*Prefil
 		*Foto
 		*Texto
+			*interesses
+			*link to conhecimentos
+			*Sobre mim
+			**currículo
+			
 	*Conhecimentos
 		Textos
 	*Portifólio
